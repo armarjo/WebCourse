@@ -1,5 +1,5 @@
 # CourseraWebCourse
-This are the solutions of coursera course.
+These are the solutions of coursera course.
 <hr>
 In this project you will find the solution of assignments from Coursera course: HTML, CSS, and Javascript for Web Developers. <br><br>
 There are 4 assignments 1 for each module/week starting from Module 2. <br><br>
