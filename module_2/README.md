@@ -1,6 +1,3 @@
-# CourseraWebCourse
-This are the solutions of coursera course.
-
 # HTML, CSS, and Javascript for Web Developers WEEK 2 solution
 
 This project is the solution of Week 2 / Module 2 assignment from Coursera course: HTML, CSS, and Javascript for Web Developers. <br>
