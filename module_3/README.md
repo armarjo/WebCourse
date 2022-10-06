@@ -62,7 +62,6 @@ Here is the mockup illustration of the mobile view (only required graded parts a
 <br>
 <br>
 <br>
-<br>
 **OPTIONAL, UNGRADED PORTION IS BELOW:**
 
 **The rest of this assignment is not graded and is optional, but it's good practice, so go for it if you have time. The solution to the optional ungraded portion of the assignment below does NOT have to be submitted.**
@@ -111,3 +110,21 @@ Here is the mockup illustration of the mobile version of the site with the menu 
 
 ![Mobile - Optional (Closed)](images/mobile-optional-collapsed.png)
 ![Mobile - Optional (Open)](images/mobile-optional-expanded.png)
+<br>
+<br>
+<strong>Review criteria</strong><br>
+<ul>
+<li>Does the implementation use inline CSS styles at all (not allowed) or does it reference an external CSS file?</li>
+<li>Is the default navbar implemented such that it scrolls away with the page, i.e., it's not statically attached to the top of bottom of the screen?</li>
+<li>Does the brand name "Food, LLC" properly aligned to the left of the navbar and does it use navbar-brand class?</li>
+<li>Is the dropdown menu button only visible when the browser is narrow enough to be in mobile view?</li>
+<li>Does clicking the dropdown menu button make the dropdown menu to slide down? Does it take up the entire width of the browser (minus some margins)? Is the label of the each menu item (e.g., "Chicken")  centered using a Bootstrap class?</li>
+<li>Is the page heading, "Our Menu", centered on the screen using the Bootstrap class?</li>
+<li>Is the single cell section (or multiple sections as per optional part of the assignment) using the Bootstrap Grid System and is the section tall enough to force the viewer to scroll if they wanted to get to the bottom of the page.</li>
+</ul>
+
+
+
+
+
+
