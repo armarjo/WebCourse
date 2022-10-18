@@ -1,8 +1,8 @@
-# CourseraWebCourse
-These are the solutions of coursera course.
+# WebCourse
+These are the solutions of course.
 <hr>
-In this project you will find the solution of assignments from Coursera course: HTML, CSS, and Javascript for Web Developers. <br><br>
-There are 4 assignments 1 for each module/week starting from Module 2. <br><br>
+In this project you will find the solution of assignments from course: HTML, CSS, and Javascript for Web Developers. <br><br>
+There are 4 assignments:<br><br>
 <ul>
 <li>Module TWO:
 <a href="https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment2/Assignment-2.md">Requirements</a>
